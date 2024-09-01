@@ -3,7 +3,7 @@ class Classcomp extends COMPONENTS
 {
     render()
     {
-        return <h1>Hello Class Components</h1>
+        return <h1>Hello Class  Components in React</h1>
     }
 }
 export default Classcomp;
