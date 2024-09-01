@@ -3,7 +3,7 @@ const Hello = () => {
     
     return(
         <div>
-            <h1>Hello JSX in React</h1>
+            <h1>Hello Javascript XML in React</h1>
         </div>
     )
 }
